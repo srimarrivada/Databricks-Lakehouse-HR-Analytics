@@ -725,7 +725,7 @@ The design demonstrates how a Databricks Lakehouse can extend an enterprise HR D
 
 - [High-Level Architecture](../diagrams/databricks-lakehouse-high-level-architecture.png)
 - [End-to-End Lakehouse Architecture](../diagrams/databricks-lakehouse-end-to-end-architecture-detailed.png)
-- [Medallion Data Flow](../diagrams/medallion-data-flow-integration-vieww.png)
+- [Medallion Data Flow](../diagrams/medallion-data-flow-integration-view.png)
 - [Lakehouse Federation Pattern](../diagrams/lakehouse-federation-pattern.png)
 - [Gold Layer Models](../diagrams/databricks-gold-layer-star-schemas.png)
 - [DQ & Reconciliation Pattern](../diagrams/dq-monitoring-reconciliation-pattern.png)
