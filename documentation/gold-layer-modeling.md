@@ -21,7 +21,7 @@ This is a sanitized portfolio artifact created to demonstrate lakehouse architec
 
 ## Architecture Diagram
 
-![Databricks Gold Layer Models](../diagrams/gold-layer-models.png)
+![Databricks Gold Layer Models](../diagrams/databricks-gold-layer-star-schemas.png)
 
 ---
 
