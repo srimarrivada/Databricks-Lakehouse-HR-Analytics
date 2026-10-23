@@ -31,7 +31,7 @@ This is a sanitized portfolio artifact created to demonstrate lakehouse architec
 | [Gold Layer Models](diagrams/databricks-gold-layer-star-schemas.png) | Gold-layer star schemas / constellation models for New Hire, Recruiting, and Training analytics. |
 | [DQ Monitoring & Reconciliation Pattern](diagrams/dq-monitoring-reconciliation-pattern.png) | Shared DQ framework and Worker_SK resolution strategy by integration. |
 | [BI Consumption Pattern](diagrams/bi-consumption-pattern.png) | Power BI vs Databricks SQL consumption design by audience, latency, RLS, and refresh needs. |
-| [Enterprise HR Hybrid Analytics Landscape](diagrams/enterprise-hr-hybrid-analytics-landscape.png) | Side-by-side comparison of SQL Server HR DataHub and Azure Databricks analytics platforms. |
+| [Enterprise HR Hybrid Analytics Landscape](diagrams/enterprise-hr-hybird-analytics-landscape.png) | Side-by-side comparison of SQL Server HR DataHub and Azure Databricks analytics platforms. |
 
 ## High-Level Architecture
 ![Databricks Lakehouse HR Analytics High-Level Architecture](diagrams/databricks-lakehouse-high-level-architecture.png)
